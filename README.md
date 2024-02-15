@@ -1,6 +1,4 @@
-- Hi, I’m inam khan 
-- I’m interested in cracking games
-- I’m currently learning programming and web development 3.0
+ Hi,I’m inam khan and I’m interested in cracking games through coding and I’m currently learning programming and web development 3.0
 
 
 <!---
